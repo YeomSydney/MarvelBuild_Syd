@@ -1,3 +1,5 @@
+<img src="images/logo.svg" width="300px" height="auto">
+
 # Class Build: Marvel Build
 
 ## Author
