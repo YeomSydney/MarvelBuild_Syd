@@ -9,12 +9,8 @@ Seunghyeon Yeom (0975764)
 Learning Vue With Marvel Theme
 
 ## Characters
-    Captain America (Steve Rogers)
-
-    Deadpool (Wade Wilson)
-
-    Hulk (Bruce Banner)
-
-    Iron Man (Tony Stark)
-    
-    Spider-Man (Peter Parker)
+- Captain America (Steve Rogers)
+- Deadpool (Wade Wilson)
+- Hulk (Bruce Banner)
+- Iron Man (Tony Stark)
+- Spider-Man (Peter Parker)
